@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.exe
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.deps.json
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\ref\OneToOneRelationship.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\bin\Debug\net5.0\OneToOneRelationship.pdb
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.csprojAssemblyReference.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\ref\OneToOneRelationship.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.pdb
+C:\Users\Tipu\Desktop\C# OOP\OneToOneRelationship\OneToOneRelationship\obj\Debug\net5.0\OneToOneRelationship.genruntimeconfig.cache

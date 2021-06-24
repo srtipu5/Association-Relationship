@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.exe
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.deps.json
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\ref\OneToMany.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\bin\Debug\net5.0\OneToMany.pdb
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.csprojAssemblyReference.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\ref\OneToMany.dll
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.pdb
+C:\Users\Tipu\Desktop\C# OOP\OneToMany\OneToMany\obj\Debug\net5.0\OneToMany.genruntimeconfig.cache
